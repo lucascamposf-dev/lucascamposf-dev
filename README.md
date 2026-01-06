@@ -1,16 +1,16 @@
-## Hi there 👋
+ 👋 Olá, eu sou o Lucas!
 
-<!--
-**lucascamposf-dev/lucascamposf-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Foco em desenvolvimento Fullstack  
+🚀 Estudando Python, Flask, HTML, CSS e JavaScript  
 
-Here are some ideas to get you started:
+ 🛠 Tecnologias
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Objetivo
+Conseguir minha primeira oportunidade como desenvolvedor júnior ou estágio, aplicando boas práticas e aprendendo continuamente.
