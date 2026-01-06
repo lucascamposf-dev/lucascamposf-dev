@@ -1,4 +1,4 @@
- 👋 Olá, eu sou o Lucas!
+ 👋 meu nome e Lucas!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Foco em desenvolvimento Fullstack  
