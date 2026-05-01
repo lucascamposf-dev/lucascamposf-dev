@@ -3,6 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Foco em desenvolvimento Fullstack  
 🚀 Estudando Python, Flask, HTML, CSS e JavaScript  
+Querendo foca na area de jogos , desenvolvendo sistema para ajudar empresas . 
 
  🛠 Tecnologias
 - Python
