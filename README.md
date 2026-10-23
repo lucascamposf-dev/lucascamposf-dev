@@ -10,6 +10,7 @@ Desenvolvedor **full stack júnior** e estudante de **Análise e Desenvolvimento
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [**KidScreenTime**](https://github.com/lucascamposf-dev/KidScreenTime) | App Android de controle parental: bloqueia o celular depois do tempo de uso e libera com atividades educativas que se adaptam ao nível da criança. A IA gera perguntas e uma segunda chamada confere cada resposta. | Kotlin · Android · LLM (Groq) · JUnit |
+| [**Escritório 3D dos Agentes**](https://github.com/lucascamposf-dev/escritorio-agentes-3d) | Painel 3D em tempo real onde agentes de IA (Claude Code, opencode) viram personagens trabalhando num escritório, com acesso seguro pelo celular. | three.js · Node.js · SSE · 51 testes |
 | [**TaskFlow: Quest Log**](https://github.com/lucascamposf-dev/taskflow-quest-log) | Gerenciador de tarefas full stack com visual de RPG 8-bits: API REST com CRUD completo e banco na nuvem. | Node.js · Express · Prisma · PostgreSQL |
 | [**Estoque Fácil**](https://github.com/lucascamposf-dev/estoque-facil) | Controle de estoque que funciona offline, para lojas e distribuidoras, com várias empresas e perfis de acesso. | React · PWA · IndexedDB · Node.js · Prisma · PostgreSQL |
 | [**Football Scout**](https://github.com/lucascamposf-dev/football-scout) | Análise de futebol com modelos estatísticos (Poisson, Dixon-Coles, ELO), calibração automática e IA. | React · Node.js · PostgreSQL · Python |
