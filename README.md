@@ -1,17 +1,29 @@
- 👋 meu nome e Lucas!
+# Olá, eu sou o Lucas 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Foco em desenvolvimento Fullstack  
-🚀 Estudando Python, Flask, HTML, CSS e JavaScript  
-Querendo foca na area de jogos , desenvolvendo sistema para ajudar empresas . 
+Desenvolvedor **full stack júnior** e estudante de **Análise e Desenvolvimento de Sistemas**. Eu crio sistemas, sites e apps que resolvem problemas reais de negócio: do banco de dados à tela do celular do cliente.
 
- 🛠 Tecnologias
-- Python
-- Flask
-- HTML
-- CSS
-- JavaScript
-- SQLite
+📫 **Contato:** [fernandeslucas2411@gmail.com](mailto:fernandeslucas2411@gmail.com)
+🎯 **Objetivo:** minha primeira oportunidade como desenvolvedor júnior ou estagiário.
 
-📌 Objetivo
-Conseguir minha primeira oportunidade como desenvolvedor júnior ou estágio, aplicando boas práticas e aprendendo continuamente.
+## 🚀 Projetos em destaque
+
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [**KidScreenTime**](https://github.com/lucascamposf-dev/KidScreenTime) | App Android de controle parental: bloqueia o celular depois do tempo de uso e libera com atividades educativas que se adaptam ao nível da criança. A IA gera perguntas e uma segunda chamada confere cada resposta. | Kotlin · Android · LLM (Groq) · JUnit |
+| [**TaskFlow: Quest Log**](https://github.com/lucascamposf-dev/taskflow-quest-log) | Gerenciador de tarefas full stack com visual de RPG 8-bits: API REST com CRUD completo e banco na nuvem. | Node.js · Express · Prisma · PostgreSQL |
+| [**Convite de Aniversário Digital**](https://github.com/lucascamposf-dev/convite-aniversario-digital) · [demo](https://lucascamposf-dev.github.io/convite-aniversario-digital/) | Convite feito para uma cliente real: envelope animado, local no Maps/Waze e confirmação de presença pelo WhatsApp com mensagem pronta. | HTML · CSS · JavaScript |
+| [**AgendaPro**](https://github.com/lucascamposf-dev/agendai-landing) · [site](https://lucascamposf-dev.github.io/agendai-landing/) | Landing page de vendas de um sistema de agendamento online para pequenos negócios. | HTML · CSS · JavaScript |
+
+## 🛠 Tecnologias
+
+**Front-end:** HTML · CSS · JavaScript
+**Back-end:** Node.js · Express · Python · Flask
+**Banco de dados:** PostgreSQL · Prisma · SQLite · Supabase
+**Mobile:** Kotlin · Android
+**Ferramentas:** Git · GitHub · GitHub Pages · Netlify
+
+## 💡 Como eu trabalho
+
+- Entrego coisas que funcionam no mundo real: projetos para clientes, publicados e em uso.
+- Penso em segurança desde o começo: senhas com hash, chaves fora do código e entrada do usuário tratada.
+- Documento o que faço, para que outra pessoa consiga rodar o projeto sem precisar me perguntar.
