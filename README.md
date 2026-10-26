@@ -16,7 +16,7 @@ Desenvolvedor **full stack júnior** e estudante de **Análise e Desenvolvimento
 | [**Football Scout**](https://github.com/lucascamposf-dev/football-scout) | Análise de futebol com modelos estatísticos (Poisson, Dixon-Coles, ELO), calibração automática e IA. | React · Node.js · PostgreSQL · Python |
 | [**Resolvedor de Cubo Mágico**](https://github.com/lucascamposf-dev/resolvedor-cubo-magico) | Tira 6 fotos do cubo: uma IA de visão lê as cores e o app mostra os movimentos para resolver. | React · Node.js · Visão computacional · LLM |
 | [**Convite de Aniversário Digital**](https://github.com/lucascamposf-dev/convite-aniversario-digital) · [demo](https://lucascamposf-dev.github.io/convite-aniversario-digital/) | Convite feito para uma cliente real: envelope animado, local no Maps/Waze e confirmação de presença pelo WhatsApp com mensagem pronta. | HTML · CSS · JavaScript |
-| [**AgendaPro**](https://github.com/lucascamposf-dev/agendai-landing) · [site](https://lucascamposf-dev.github.io/agendai-landing/) | Landing page de vendas de um sistema de agendamento online para pequenos negócios. | HTML · CSS · JavaScript |
+| [**Agendado**](https://github.com/lucascamposf-dev/agendai-landing) · [site](https://lucascamposf-dev.github.io/agendai-landing/) | Landing page de vendas de um sistema de agendamento online para pequenos negócios. | HTML · CSS · JavaScript |
 
 ## 🛠 Tecnologias
 
