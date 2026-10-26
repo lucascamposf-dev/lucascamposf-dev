@@ -2,7 +2,7 @@
 
 Desenvolvedor **full stack júnior** e estudante de **Análise e Desenvolvimento de Sistemas**. Eu crio sistemas, sites e apps que resolvem problemas reais de negócio: do banco de dados à tela do celular do cliente.
 
-📫 **Contato:** [fernandeslucas2411@gmail.com](mailto:fernandeslucas2411@gmail.com)
+📫 **Contato:** [fernandeslucas2411@gmail.com](mailto:fernandeslucas2411@gmail.com)  (61) 99572-4244
 🎯 **Objetivo:** minha primeira oportunidade como desenvolvedor júnior ou estagiário.
 
 ## 🚀 Projetos em destaque
